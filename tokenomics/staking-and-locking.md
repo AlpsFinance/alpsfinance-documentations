@@ -1,4 +1,4 @@
-# STAKING & LOCKING
+# ⛏ Staking and Locking
 
 Fee Distribution Alps holders can decide to stake (no lockup period) or lock (8 weeks Lockup period MINIMUM) their ALPS
 

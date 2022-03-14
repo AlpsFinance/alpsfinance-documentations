@@ -1,12 +1,4 @@
----
-description: Here is the details of Alps Token distribution
----
-
-# DISTRIBUTION
-
-
-
-
+# 💰 ALPS Tokenomics
 
 AIRDROP — 5% (250 million token)
 
