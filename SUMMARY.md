@@ -4,6 +4,7 @@
 * [⭐ Why Alps Finance](why-alps-finance.md)
 * [🚀 Get Started](get-started/README.md)
   * [🦊 Add Avalanche C-Chain to Metamask](get-started/add-avalanche-c-chain-to-metamask.md)
+* [🛣 Roadmap](roadmap.md)
 
 ## 🧰 PRODUCTS
 
