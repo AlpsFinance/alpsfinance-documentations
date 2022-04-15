@@ -42,7 +42,7 @@
 * [🦄 @alpsfinance/core](sdk/alpsfinance-core.md)
 * [™ @alpsfinance/brand](sdk/alpsfinance-brand.md)
 
-## 💚 MISCELLANEOUS
+## 💙 MISCELLANEOUS
 
 * [™ Brand Resources](miscellaneous/brand-resources.md)
 * [❓ FAQs](miscellaneous/faqs.md)

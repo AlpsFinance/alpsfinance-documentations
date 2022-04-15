@@ -4,6 +4,10 @@ Alps Finance smart contracts is fully open-sourced and can be found within our o
 
 {% embed url="https://github.com/AlpsFinance/alpsfinance-smart-contracts" %}
 
+Although not completely implemented yet, the following is our smart contract diagram that will guide us on the structure and relation between various types of smart contracts:
+
+![Smart Contracts Diagram](<../../.gitbook/assets/Smart Contracts Diagram Alps Finance.jpg>)
+
 Our smart contracts are divided into several directory depending on the category of its utility:
 
 {% content-ref url="airdrop/" %}
