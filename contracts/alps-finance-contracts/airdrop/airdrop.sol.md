@@ -1,4 +1,4 @@
-# 💧 Airdrop.sol
+# 💦 Airdrop.sol
 
 GitHub Link: [https://github.com/AlpsFinance/alpsfinance-smart-contracts/blob/main/contracts/airdrop/Airdrop.sol](https://github.com/AlpsFinance/alpsfinance-smart-contracts/blob/main/contracts/airdrop/Airdrop.sol)
 

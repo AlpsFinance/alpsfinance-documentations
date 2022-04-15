@@ -23,10 +23,18 @@
 ## 📜 CONTRACTS
 
 * [⚖ Alps Finance Contracts](contracts/alps-finance-contracts/README.md)
-  * [💧 Airdrop.sol](contracts/alps-finance-contracts/airdrop.sol.md)
-  * [🏦 DAOInvestmentFund.sol](contracts/alps-finance-contracts/daoinvestmentfund.sol.md)
-  * [🧑 IndividualInvestmentFund.sol](contracts/alps-finance-contracts/individualinvestmentfund.sol.md)
-  * [🏭 FundFactory.sol](contracts/alps-finance-contracts/fundfactory.sol.md)
+  * [💧 Airdrop](contracts/alps-finance-contracts/airdrop/README.md)
+    * [💦 Airdrop.sol](contracts/alps-finance-contracts/airdrop/airdrop.sol.md)
+  * [🤑 Funds](contracts/alps-finance-contracts/funds/README.md)
+    * [🏭 FundFactory.sol](contracts/alps-finance-contracts/funds/fundfactory.sol.md)
+    * [🧑 IndividualInvestmentFund.sol](contracts/alps-finance-contracts/funds/individualinvestmentfund.sol.md)
+    * [🏦 DAOInvestmentFund.sol](contracts/alps-finance-contracts/funds/daoinvestmentfund.sol.md)
+  * [📚 Libraries](contracts/alps-finance-contracts/libraries.md)
+  * [🎗 Name Service](contracts/alps-finance-contracts/name-service/README.md)
+    * [🆔 AlpsNameService.sol](contracts/alps-finance-contracts/name-service/alpsnameservice.sol.md)
+  * [🛒 Presale](contracts/alps-finance-contracts/presale.md)
+  * [🪙 Token](contracts/alps-finance-contracts/token.md)
+  * [📬 Vesting](contracts/alps-finance-contracts/vesting.md)
 * [🔬 Contract Audits](contracts/contract-audits.md)
 
 ## ⚙ SDK
