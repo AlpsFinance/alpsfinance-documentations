@@ -22,7 +22,8 @@
 
 ## 📜 CONTRACTS
 
-* [⚖ Alps Finance Contracts](contracts/alps-finance-contracts.md)
+* [⚖ Alps Finance Contracts](contracts/alps-finance-contracts/README.md)
+  * [Airdrop.sol](contracts/alps-finance-contracts/airdrop.sol.md)
 * [🔬 Contract Audits](contracts/contract-audits.md)
 
 ## ⚙ SDK
