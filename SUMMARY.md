@@ -25,6 +25,11 @@
 * [⚖ Alps Finance Contracts](contracts/alps-finance-contracts.md)
 * [🔬 Contract Audits](contracts/contract-audits.md)
 
+## ⚙ SDK
+
+* [🦄 @alpsfinance/core](sdk/alpsfinance-core.md)
+* [™ @alpsfinance/brand](sdk/alpsfinance-brand.md)
+
 ## 💚 MISCELLANEOUS
 
 * [™ Brand Resources](miscellaneous/brand-resources.md)
