@@ -20,9 +20,13 @@ description: >-
 
 *
 
-![](<../.gitbook/assets/Alps Tokenomics 3.png>)
+### Incentivization Scheme
+
+![ALPS Tokenomics Chart](<../.gitbook/assets/Alps Tokenomics 3.png>)
 
 ### Token Distribution
+
+**ALPS** Token will be an ERC20 token that shall be distributed as follows.
 
 * Airdrop: 5% (250M token)
 * Presale: 5% (250 M token)

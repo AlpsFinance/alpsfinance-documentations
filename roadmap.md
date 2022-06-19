@@ -1,14 +1,14 @@
 ---
-description: Look where Alps Finance is going for the long term.
+description: Look where Alps Finance is going for the down the road!
 ---
 
 # 🛣 Roadmap
 
 ### Q2 2022 (April - June 2022)
 
-* DeFi Dashboard Analytics :white\_check\_mark:
-* [LI.FI](https://li.fi) Integration (Cross-chain swap) :white\_check\_mark:
-* [Lens Protocol](https://lens.xyz) Integration (Web3 Social Media) :white\_check\_mark:
+* :white\_check\_mark: DeFi Dashboard Analytics
+* :white\_check\_mark: [LI.FI](https://li.fi) Integration (Cross-chain swap)
+* :white\_check\_mark: [Lens Protocol](https://lens.xyz) Integration (Web3 Social Media)
 
 ### Q3 2022 (July - September 2022)
 
@@ -30,9 +30,15 @@ description: Look where Alps Finance is going for the long term.
 * Fund Manager Scouters Rank Board
 * DeFi integrations on other EVMs:
   * ETH-Compound (Lending pools)
+  * ETH-Uniswap (Liquidity pools)
+  *
   * etc.
-* dsa
+*
 
 ### Q1 2023 (January - March 2023)
 
+* Cross-chain DeFi Integrations:
+  *
+* Alps Mobile App
 * Alps Governance DAO Launch
+*

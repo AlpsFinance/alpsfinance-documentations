@@ -3,7 +3,9 @@
 * [🏠 What is Alps Finance?](README.md)
 * [⭐ Why Alps Finance?](why-alps-finance.md)
 * [🚀 Get Started](get-started/README.md)
-  * [🦊 Add Avalanche C-Chain to Metamask](get-started/add-avalanche-c-chain-to-metamask.md)
+  * [🦊 Metamask Login to Alps Finance](get-started/metamask-login-to-alps-finance.md)
+  * [🗳 WalletConnect Login to Alps Finance](get-started/walletconnect-login-to-alps-finance.md)
+  * [🛳 Onboarding Alps Finance](get-started/onboarding-alps-finance.md)
 * [🛣 Roadmap](roadmap.md)
 
 ## 🧰 PRODUCTS
