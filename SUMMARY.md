@@ -1,18 +1,16 @@
 # Table of contents
 
 * [🏠 What is Alps Finance?](README.md)
-* [⭐ Why Alps Finance](why-alps-finance.md)
+* [⭐ Why Alps Finance?](why-alps-finance.md)
 * [🚀 Get Started](get-started/README.md)
   * [🦊 Add Avalanche C-Chain to Metamask](get-started/add-avalanche-c-chain-to-metamask.md)
 * [🛣 Roadmap](roadmap.md)
 
 ## 🧰 PRODUCTS
 
-* [📧 Web3 Email Login](products/web3-email-login.md)
-* [🫂 NFT-based Social Media Platform](products/nft-based-social-media-platform.md)
+* [🫂 Social Discovery Tools](products/social-discovery-tools.md)
 * [🏗 Cross-chain DeFi Aggregator](products/cross-chain-defi-aggregator.md)
-* [🏦 DAO Investment Fund](products/dao-investment-fund.md)
-* [🔁 Automatic Derivatives Market Maker](products/automatic-derivatives-market-maker.md)
+* [🏦 fNFT Crypto Funds](products/fnft-crypto-funds.md)
 
 ## 💸 TOKENOMICS
 

@@ -1,17 +1,34 @@
+---
+description: >-
+  Get to know how ALPS tokenomics will play a big role in incentivizing
+  participating users of different roles!
+---
+
 # 💰 ALPS Tokenomics
 
-AIRDROP — 5% (250 million token)
+### Token Utility
 
-PRESALE — 5% (250 million token)
+#### For Investors
 
-MARKETING — 10% (500 million token)
+*
 
-SEED — 5% (250 million token)
+#### For Scouters
 
-STAKING REWARD — 25% (1.25 billion token)
+*
 
-TEAM — 15% (750 million token)
+#### For Fund Managers
 
-LIQUIDITY — 10% (500 million token)
+*
 
-FOUNDATION — 25% (1.25 billion token)
+![](<../.gitbook/assets/Alps Tokenomics 3.png>)
+
+### Token Distribution
+
+* Airdrop: 5% (250M token)
+* Presale: 5% (250 M token)
+* Marketing: 10% (500M token)
+* Seed: 5% (250M token)
+* Staking Reward: 25% (1.25B token)
+* Team: 15% (750M token)
+* Liquidity: 10% (500M token)
+* Foundation: 25% (1.25B token)
