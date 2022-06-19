@@ -37,8 +37,7 @@ description: Look where Alps Finance is going for the down the road!
 
 ### Q1 2023 (January - March 2023)
 
-* Cross-chain DeFi Integrations:
-  *
+* Cross-chain DeFi Legos
 * Alps Mobile App
 * Alps Governance DAO Launch
 *
