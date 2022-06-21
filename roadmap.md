@@ -26,8 +26,8 @@ description: Look where Alps Finance is going for the down the road!
 ### Q4 2022 (October - December 2022)
 
 * ALPS Staking Pool Launch
-* fNFT Crypto Funds Launch
-* Fund Manager Scouters Rank Board
+* fNFT Social Crypto Funds Launch
+* Fund Manager Rank Board
 * DeFi integrations on other EVMs:
   * ETH-Compound (Lending pools)
   * ETH-Uniswap (Liquidity pools)

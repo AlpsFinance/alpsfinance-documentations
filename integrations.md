@@ -6,19 +6,19 @@
 
 #### DEXs
 
-|   | Protocols | Supported Chains |
-| - | --------- | ---------------- |
-| ✅ | LI.FI     |                  |
-|   |           |                  |
-|   |           |                  |
+|   | Protocols | Supported Chains                                                  |
+| - | --------- | ----------------------------------------------------------------- |
+| ✅ | LI.FI     | `ETH`, `BSC`, `MATIC`, `AVAX`, `FTM`, `MOVR`, `MOON`, `CRO`, etc. |
+|   |           |                                                                   |
+|   |           |                                                                   |
 
 #### Bridges
 
-|   | Protocols | Supported Chains |
-| - | --------- | ---------------- |
-|   |           |                  |
-|   |           |                  |
-|   |           |                  |
+|   | Protocols | Supported Chains                                                  |
+| - | --------- | ----------------------------------------------------------------- |
+| ✅ | LI.FI     | `ETH`, `BSC`, `MATIC`, `AVAX`, `FTM`, `MOVR`, `MOON`, `CRO`, etc. |
+|   |           |                                                                   |
+|   |           |                                                                   |
 
 #### Staking Pools
 
@@ -56,6 +56,6 @@
 
 |   | Protocols         | Supported Chains |
 | - | ----------------- | ---------------- |
-| ✅ | Lens Protocol     | `POL`            |
+| ✅ | Lens Protocol     | `MATIC`          |
 | ✅ | IPFS/Filecoin     | `FIL`            |
 |   | Proof of Humanity | `ETH`            |

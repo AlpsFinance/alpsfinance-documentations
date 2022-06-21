@@ -13,7 +13,7 @@
 
 * [🫂 Social Discovery Tools](products/social-discovery-tools.md)
 * [🏗 Cross-chain DeFi Aggregator](products/cross-chain-defi-aggregator.md)
-* [🏦 fNFT Crypto Funds](products/fnft-crypto-funds.md)
+* [🏦 fNFT Social Crypto Funds](products/fnft-social-crypto-funds.md)
 
 ## 💸 TOKENOMICS
 
