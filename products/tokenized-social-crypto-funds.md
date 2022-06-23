@@ -1,2 +1,0 @@
-# 🏦 fNFT Crypto Funds
-
