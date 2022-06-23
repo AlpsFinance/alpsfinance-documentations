@@ -24,17 +24,18 @@
 
 |   | Protocols | Supported Chains |
 | - | --------- | ---------------- |
-|   |           |                  |
+|   | Aave      | `ETH`            |
 |   |           |                  |
 |   |           |                  |
 
 #### Lending Pools
 
-|   | Protocols | Supported Chains |
-| - | --------- | ---------------- |
-|   |           |                  |
-|   |           |                  |
-|   |           |                  |
+|   | Protocols | Supported Chains       |
+| - | --------- | ---------------------- |
+|   | Aave V3   | `MATIC`, `AVAX`, `FTM` |
+|   | Aave V2   | `ETH`                  |
+|   | Compound  |                        |
+|   |           |                        |
 
 #### Flash Loan
 

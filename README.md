@@ -22,6 +22,6 @@ all in a single platform. Features that will be implemented to achieve solve the
 [cross-chain-defi-aggregator.md](products/cross-chain-defi-aggregator.md)
 {% endcontent-ref %}
 
-{% content-ref url="products/fnft-social-crypto-funds.md" %}
-[fnft-social-crypto-funds.md](products/fnft-social-crypto-funds.md)
+{% content-ref url="products/tokenized-social-crypto-funds.md" %}
+[tokenized-social-crypto-funds.md](products/tokenized-social-crypto-funds.md)
 {% endcontent-ref %}

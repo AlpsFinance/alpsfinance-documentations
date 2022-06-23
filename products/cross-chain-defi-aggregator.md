@@ -18,6 +18,8 @@ Our aggregator will divide the feature into several strategies:
 
 ### Yield Farming
 
+### Wrapped Tokens
+
 ### Flash Loan
 
 ### Derivatives
