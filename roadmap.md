@@ -12,6 +12,12 @@ description: Look where Alps Finance is going for the down the road!
 
 ### Q3 2022 (July - September 2022)
 
+* DeFi Integrations on Ethereum:
+  * Aave V2 (Staking + Lending Pool)
+  * Compound (Lending Pool)
+  * Uniswap V2 (Liquidity Pools)
+  * Uniswap V3 (Liquidity Pools)
+  * WETH (Deposit ETH)
 * DeFi integrations on Polygon:
   * Aave V3 (Lending pools)
   * Uniswap V3 (Liquidity pools)
@@ -29,8 +35,6 @@ description: Look where Alps Finance is going for the down the road!
 * fNFT Social Crypto Funds Launch
 * Fund Manager Rank Board
 * DeFi integrations on other EVMs:
-  * ETH-Compound (Lending pools)
-  * ETH-Uniswap (Liquidity pools)
   *
   * etc.
 *
