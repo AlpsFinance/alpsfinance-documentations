@@ -6,7 +6,7 @@ description: Get to know what is Alps Finance and how it can bring value to the 
 
 ### What is Alps Finance?
 
-**Alps Finance is a decentralized social trading platform for DeFi fund managers to build their investing community, reputation, and on-chain crypto funds.** In effect, this will make the life of any DeFi fund managers easier as they'll be able to:
+**Alps Finance is a decentralized social trading platform for fund managers to build their on-chain fund and engage with their investing community**. **** In effect, this will make the life of any DeFi fund managers easier as they'll be able to:
 
 * build up their investing community and reputation
 * invest actively in their favorite DeFi protocols and strategy
