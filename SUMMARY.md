@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🏠 What is Alps Finance?](README.md)
-* [⭐ Why Alps Finance?](why-alps-finance/README.md)
+* [⭐ Why Alps Finance?](why-alps-finance.md)
   * [📜 Our Thesis](why-alps-finance/our-thesis.md)
   * [⚒ Problems](why-alps-finance/problems.md)
   * [😁 Benefits](why-alps-finance/benefits.md)
@@ -14,12 +14,21 @@
 
 ## 🧰 PRODUCTS
 
-* [🫂 Social Discovery Tools](products/social-discovery-tools/README.md)
+* [🫂 Social Discovery Tools](products/social-discovery-tools.md)
   * [👭 Web3 Social Media](products/social-discovery-tools/web3-social-media.md)
   * [🎓 Trustless Reputation System](products/social-discovery-tools/trustless-reputation-system.md)
   * [🏆 Asset Manager Leaderboard](products/social-discovery-tools/asset-manager-leaderboard.md)
-* [🏗 Cross-chain DeFi Aggregator](products/cross-chain-defi-aggregator.md)
-* [🏦 Social Trading Token](products/social-trading-token.md)
+* [🏗 Cross-chain DeFi Aggregator](products/cross-chain-defi-aggregator/README.md)
+  * [💱 Swap](products/cross-chain-defi-aggregator/swap.md)
+  * [🤝 Staking](products/cross-chain-defi-aggregator/staking.md)
+  * [🏧 Lending/Borrowing](products/cross-chain-defi-aggregator/lending-borrowing.md)
+  * [⛏ Liquidity Mining](products/cross-chain-defi-aggregator/liquidity-mining.md)
+  * [🧑🌾 Yield Farming](products/cross-chain-defi-aggregator/yield-farming.md)
+  * [🎁 Wrapped Token](products/cross-chain-defi-aggregator/wrapped-token.md)
+  * [⚡ Flash Loan](products/cross-chain-defi-aggregator/flash-loan.md)
+  * [🔏 Derivatives](products/cross-chain-defi-aggregator/derivatives.md)
+  * [🌈 Custom Strategy](products/cross-chain-defi-aggregator/custom-strategy.md)
+* [🏦 Social Trading Token](products/fnft-social-crypto-funds.md)
 
 ## 💸 TOKENOMICS
 

@@ -20,14 +20,14 @@ Using Alps Finance, any managers will be able to:
 
 all in a single platform. Features that will be implemented to achieve solve the problems laid above are:
 
-{% content-ref url="products/social-discovery-tools/" %}
-[social-discovery-tools](products/social-discovery-tools/)
+{% content-ref url="products/social-discovery-tools.md" %}
+[social-discovery-tools.md](products/social-discovery-tools.md)
 {% endcontent-ref %}
 
-{% content-ref url="products/cross-chain-defi-aggregator.md" %}
-[cross-chain-defi-aggregator.md](products/cross-chain-defi-aggregator.md)
+{% content-ref url="products/cross-chain-defi-aggregator/" %}
+[cross-chain-defi-aggregator](products/cross-chain-defi-aggregator/)
 {% endcontent-ref %}
 
-{% content-ref url="products/social-trading-token.md" %}
-[social-trading-token.md](products/social-trading-token.md)
+{% content-ref url="products/fnft-social-crypto-funds.md" %}
+[fnft-social-crypto-funds.md](products/fnft-social-crypto-funds.md)
 {% endcontent-ref %}

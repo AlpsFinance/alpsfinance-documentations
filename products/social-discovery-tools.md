@@ -9,14 +9,14 @@ However, fund managers tend to be not very good at these and they are undoubtedl
 
 In order to do so, we've built several in-app solution:
 
-{% content-ref url="web3-social-media.md" %}
-[web3-social-media.md](web3-social-media.md)
+{% content-ref url="social-discovery-tools/web3-social-media.md" %}
+[web3-social-media.md](social-discovery-tools/web3-social-media.md)
 {% endcontent-ref %}
 
-{% content-ref url="trustless-reputation-system.md" %}
-[trustless-reputation-system.md](trustless-reputation-system.md)
+{% content-ref url="social-discovery-tools/trustless-reputation-system.md" %}
+[trustless-reputation-system.md](social-discovery-tools/trustless-reputation-system.md)
 {% endcontent-ref %}
 
-{% content-ref url="asset-manager-leaderboard.md" %}
-[asset-manager-leaderboard.md](asset-manager-leaderboard.md)
+{% content-ref url="social-discovery-tools/asset-manager-leaderboard.md" %}
+[asset-manager-leaderboard.md](social-discovery-tools/asset-manager-leaderboard.md)
 {% endcontent-ref %}
