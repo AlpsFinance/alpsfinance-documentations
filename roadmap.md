@@ -26,22 +26,14 @@ description: Look where Alps Finance is going for the down the road!
   * WMATIC (Deposit MATIC)
   * etc.
 * Fund Manager Dashboard
-* Initial Fund Manager ERC721 NFT Offering
+* Social Trading Token Launch (Alpha)
 * ERC20 ALPS Token Launch
 
 ### Q4 2022 (October - December 2022)
 
 * ALPS Staking Pool Launch
-* fNFT Social Crypto Funds Launch
+* Social Trading Token Launch (Beta)
 * Fund Manager Rank Board
-* DeFi integrations on other EVMs:
-  *
-  * etc.
+* DeFi integrations on other EVMs
 *
 
-### Q1 2023 (January - March 2023)
-
-* Cross-chain DeFi Legos
-* Alps Mobile App
-* Alps Governance DAO Launch
-*
