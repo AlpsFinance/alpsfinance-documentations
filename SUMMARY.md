@@ -32,9 +32,12 @@
 
 ## 💸 TOKENOMICS
 
-* [💰 ALPS Tokenomics](tokenomics/alps-tokenomics.md)
-* [⛏ Staking and Locking](tokenomics/staking-and-locking.md)
-* [🔥 Deflationary Mechanism](tokenomics/deflationary-mechanism.md)
+* [💰 ALPS Tokenomics](tokenomics/alps-tokenomics/README.md)
+  * [Token Utility](tokenomics/alps-tokenomics/token-utility.md)
+  * [Incentivization Mechanism](tokenomics/alps-tokenomics/incentivization-mechanism.md)
+  * [⛏ Staking and Locking](tokenomics/alps-tokenomics/staking-and-locking.md)
+  * [🔥 Deflationary Mechanism](tokenomics/alps-tokenomics/deflationary-mechanism.md)
+* [👩🏭 Social Trading Tokenomics](tokenomics/social-trading-tokenomics.md)
 
 ## 📜 CONTRACTS
 
