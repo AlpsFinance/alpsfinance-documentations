@@ -8,7 +8,7 @@ description: >-
 
 ### Incentivization Scheme
 
-![ALPS Tokenomics Chart](<../../.gitbook/assets/Alps Tokenomics 3.png>)
+![ALPS Tokenomics Chart](<../../.gitbook/assets/Alps Tokenomics 3 (1).png>)
 
 ### Token Distribution
 

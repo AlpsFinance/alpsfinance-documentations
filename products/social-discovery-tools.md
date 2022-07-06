@@ -10,10 +10,6 @@ For managers, it's important to get **discovered and recognized** by investors o
 [web3-social-media.md](social-discovery-tools/web3-social-media.md)
 {% endcontent-ref %}
 
-{% content-ref url="social-discovery-tools/trustless-reputation-system.md" %}
-[trustless-reputation-system.md](social-discovery-tools/trustless-reputation-system.md)
-{% endcontent-ref %}
-
 {% content-ref url="social-discovery-tools/asset-manager-leaderboard.md" %}
 [asset-manager-leaderboard.md](social-discovery-tools/asset-manager-leaderboard.md)
 {% endcontent-ref %}

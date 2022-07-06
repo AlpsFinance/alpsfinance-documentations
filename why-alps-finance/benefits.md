@@ -2,11 +2,11 @@
 
 Alps Finance provides enormous value to various actors that participate on the platform depending on the different roles that they play:
 
-#### For Investors
+### For Investors
 
 Alps Finance is the best platform for investors to discover new up-and-coming DeFi fund managers and invest alongside them. Our platform allows investor to easily discover and invest into fund managers from our platform that is curated by the scouters.
 
-#### For Scouters
+### For Scouters
 
 Alps Finance is the best platform for scouters to take an active role in helping the best managers to get discovered by the investors and in return rewarded by the managers for their service.
 

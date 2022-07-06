@@ -15,7 +15,6 @@
 
 * [🫂 Social Discovery Tools](products/social-discovery-tools.md)
   * [👭 Web3 Social Media](products/social-discovery-tools/web3-social-media.md)
-  * [🎓 Trustless Reputation System](products/social-discovery-tools/trustless-reputation-system.md)
   * [🏆 Asset Manager Leaderboard](products/social-discovery-tools/asset-manager-leaderboard.md)
 * [🏗 Cross-chain DeFi Aggregator](products/cross-chain-defi-aggregator/README.md)
   * [💱 Swap](products/cross-chain-defi-aggregator/swap.md)
@@ -32,8 +31,8 @@
 ## 💸 TOKENOMICS
 
 * [💰 ALPS Tokenomics](tokenomics/alps-tokenomics/README.md)
-  * [Token Utility](tokenomics/alps-tokenomics/token-utility.md)
-  * [Incentivization Mechanism](tokenomics/alps-tokenomics/incentivization-mechanism.md)
+  * [🎖 Token Utility](tokenomics/alps-tokenomics/token-utility.md)
+  * [🪙 Incentivization Mechanism](tokenomics/alps-tokenomics/incentivization-mechanism.md)
   * [⛏ Staking and Locking](tokenomics/alps-tokenomics/staking-and-locking.md)
   * [🔥 Deflationary Mechanism](tokenomics/alps-tokenomics/deflationary-mechanism.md)
 * [👩🏭 Social Trading Tokenomics](tokenomics/social-trading-tokenomics.md)
