@@ -31,9 +31,20 @@ description: Look where Alps Finance is going for the down the road!
 
 ### Q4 2022 (October - December 2022)
 
+* ALPS DeFi SDK (beta)
 * ALPS Staking Pool Launch
 * Social Trading Token Launch (Beta)
 * Fund Manager Rank Board
 * DeFi integrations on other EVMs
+  * Pancakeswap
+  * TraderJoe
+  * Balancer
+  * Lido Protocol
+  * etc.
+
+### Q1 2023 (January - March 2023)
+
 *
+
+
 

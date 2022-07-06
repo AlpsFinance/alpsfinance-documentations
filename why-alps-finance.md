@@ -4,8 +4,8 @@ description: Get to know why you should use Alps Finance!
 
 # ⭐ Why Alps Finance?
 
-{% content-ref url="why-alps-finance/our-thesis.md" %}
-[our-thesis.md](why-alps-finance/our-thesis.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="why-alps-finance/problems.md" %}

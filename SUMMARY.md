@@ -2,7 +2,6 @@
 
 * [🏠 What is Alps Finance?](README.md)
 * [⭐ Why Alps Finance?](why-alps-finance.md)
-  * [📜 Our Thesis](why-alps-finance/our-thesis.md)
   * [⚒ Problems](why-alps-finance/problems.md)
   * [😁 Benefits](why-alps-finance/benefits.md)
 * [🚀 Get Started](get-started/README.md)

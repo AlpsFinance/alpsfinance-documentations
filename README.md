@@ -6,11 +6,7 @@ description: Get to know what is Alps Finance and how it can bring value to the 
 
 ### What is Alps Finance?
 
-**Alps Finance is a decentralized social trading network for asset managers to build their investment brand on-chain**. In essence, investment brand comprises of 3 components:
-
-* funds
-* reputation
-* community
+**Alps Finance is a decentralized social trading network for asset managers to build their investment track record and investment reputation on-chain**.
 
 Using Alps Finance, any managers will be able to:
 
